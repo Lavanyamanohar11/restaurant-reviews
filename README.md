@@ -1,4 +1,4 @@
-# restaurant-reviews
+# Restaurant-reviews
 
 ## Frontend setup :
 ``` npm start ``` 
